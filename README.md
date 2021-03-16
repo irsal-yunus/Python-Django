@@ -1,0 +1,13 @@
+# tutorial python web MVC :
+- install python latest
+- install IDE pycharm for python
+- create project python
+- install framework django for python :
+  - pip install django
+  - python -m django --version
+  - create project :
+    - django-admin startproject project_name
+- run project WEBPROJECT python :
+  - python manage.py runserver
+- setup startapp python :
+  - python manage.py startapp WEBAPP
